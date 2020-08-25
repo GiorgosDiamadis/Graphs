@@ -1,0 +1,10 @@
+graph Tree {
+	1 [label="alpha",shape=circle,color=black]
+	2 [label="beta",shape=circle,color=black]
+	3 [label="gamma",shape=circle,color=black]
+	4 [label="delta",shape=circle,color=black]
+	5 [label="epsilon",shape=circle,color=black]
+	6 [label="theta",shape=circle,color=black]
+	7 [label="lamda",shape=circle,color=black]
+	8 [label="sigma",shape=circle,color=black]
+}

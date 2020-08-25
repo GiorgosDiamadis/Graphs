@@ -1,0 +1,8 @@
+digraph Tree {
+	1 [label="epsilon",shape=circle,color=black]
+1 -> 4
+	2 [label="theta",shape=circle,color=black]
+2 -> 1
+	3 [label="lamda",shape=circle,color=black]
+	4 [label="sigma",shape=circle,color=black]
+}

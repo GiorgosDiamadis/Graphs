@@ -1,0 +1,5 @@
+digraph Tree {
+	1 [label="theta",shape=circle,color=black]
+	2 [label="lamda",shape=circle,color=black]
+	3 [label="sigma",shape=circle,color=black]
+}

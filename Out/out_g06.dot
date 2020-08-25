@@ -1,0 +1,25 @@
+digraph Tree {
+	1 [label="alpha",shape=circle,color=black]
+1 -> 2
+1 -> 9
+	2 [label="beta",shape=circle,color=black]
+2 -> 3
+2 -> 4
+	3 [label="gamma",shape=circle,color=black]
+3 -> 5
+	4 [label="delta",shape=circle,color=black]
+4 -> 6
+4 -> 8
+	5 [label="epsilon",shape=circle,color=black]
+5 -> 6
+5 -> 7
+	6 [label="zeta",shape=circle,color=black]
+6 -> 7
+6 -> 8
+	7 [label="theta",shape=circle,color=black]
+7 -> 3
+	8 [label="kappa",shape=circle,color=black]
+	9 [label="lamda",shape=circle,color=black]
+9 -> 2
+9 -> 8
+}

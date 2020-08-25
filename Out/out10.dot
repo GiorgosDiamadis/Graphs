@@ -1,0 +1,3 @@
+digraph Tree {
+	1 [label="lamda",shape=circle,color=black]
+}
